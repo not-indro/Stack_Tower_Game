@@ -15,7 +15,7 @@ Stack Tower is a simple and addictive web game built using HTML, CSS, and JavaSc
 
 ## Play Now
 
-No installation required! Play the game in your web browser by clicking the link.
+No installation required! Play the game in your web browser by clicking the [link](https://stack-tower-game.vercel.app/)
 
 ## Credits
 
